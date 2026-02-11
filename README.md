@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sayam Badoni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Semicolons save lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayambadoni&label=Profile%20views&color=0e75b6&style=flat" alt="sayambadoni" /> </p>
 
@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sayam badoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayam badoni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayambadoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayambadoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayambadoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayam badoni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
